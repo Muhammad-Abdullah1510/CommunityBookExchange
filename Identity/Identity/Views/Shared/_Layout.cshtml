@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewData["Title"] - MyApp</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css">
+
+    <link rel="stylesheet" href="~/css/site.css">
+</head>
+<body>
+    <div class="signup-page">
+        <div class="overlay"></div>
+        <div class="content">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-2">
+                <a class="navbar-brand text-light " href="/Home/HomePage">Home</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mx-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link text-light" href="/Home/ListedBooks">Listed </a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link text-light" href="/Home/DonatedBooks">Donated </a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link text-light" href="/Home/RentedBooks">Rented </a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link text-light" href="/Home/AddBook">Add Book </a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link text-light" href="/Home/RentBook">Rent Book </a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link text-light" href="/Home/Requests">Requests </a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link text-light" href="/Home/Notifications">Notifications </a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link text-light" href="/Home/Chat">Chat </a>
+                        </li>
+                    </ul>
+                    @* <form action="/Home/SearchBook" method="post"class="form-inline my-2 my-lg-0"> *@
+                    @*     <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search"> *@
+                    @*     <button class="btn bg-light text-dark my-2 my-sm-0" type="submit">Search</button> *@
+                    @* </form> *@
+                    <a href="/Home/ProfilePage" class="nav-link me-2 text-white my-3 my-sm-0">
+                        @* <img src="/images/Profile.jpg" class="rounded-circle" alt="Profile" width="40" height="40"> *@
+                        Profile
+                    </a>
+                    <form class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })" method="post">
+                        <button type="submit" class=" btn bg-light text-dark my-2 my-sm-0">Log Out</button>
+                    </form>
+
+                    @* <a class="btn bg-light text-dark my-2 my-sm-0 " href="/Home/LogOut" role="button">Log Out</a> *@
+
+                </div>
+            </nav>
+
+            <div class="container mt-4">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>

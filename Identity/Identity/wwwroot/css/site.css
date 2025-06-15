@@ -1,0 +1,47 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+
+.signup-page {
+    background-image: url('/images/LandingPage5.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6) !important;
+}
+
+.content {
+    position: relative;
+    z-index: 1;
+}
+
+.accordion-collapse {
+    transition: height 0.3s ease-in-out, opacity 0.2s ease-in-out !important;
+    opacity: 0;
+}
+
+    .accordion-collapse.show {
+        opacity: 1;
+    }
+
+.btn-close {
+    filter: invert(1);
+}
+
+.accordion-button::after {
+    filter: invert(1);
+}

@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Rent Book";
+}
+
+
+
+<div class="container d-flex flex-column align-items-center justify-content-center mt-5" style="height: calc(100vh - 200px);">
+    <h2 class="text-light text-center mb-5">Rent a Book</h2>
+    <form method="post" action="/Home/Search" class="w-50">
+        <div class=" d-flex justify-content-center text-center mb-3">
+            @* <label for="search" class="form-label text-light"><strong>Search the Book</strong></label> *@
+            <input type="text" class="form-control text-center" id="search" name="search" style="max-width: 325px;" required>
+        </div>
+
+        <div class="d-flex justify-content-center">
+            <button type="submit" class="btn bg-light text-dark">Search</button>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Add Book";
+}
+
+<h2 class="text-light text-center mt-5">Add a New Book</h2>
+
+<div class="container d-flex flex-column align-items-center justify-content-center" style="height: calc(100vh - 200px);">
+    
+    <form method="post" action="/Home/BookAdded" class="w-50">
+        <div class="mb-3 text-center ">
+            <label for="bookTitle" class="form-label text-light"><strong>Book Title</strong></label>
+            <div class="d-flex justify-content-center">
+                <input type="text" class="form-control text-center" id="bookTitle" name="Title" style="max-width: 325px;" required>
+            </div>
+        </div>
+
+        <div class="mb-3 text-center">
+            <label for="bookAuthor" class="form-label text-light"><strong>Author</strong></label>
+            <div class="d-flex justify-content-center">
+                <input type="text" class="form-control text-center" id="bookAuthor" name="Author" style="max-width: 325px;" required>
+            </div>
+        </div>
+
+        <div class="mb-3 text-center ">
+            <label for="bookCondition" class="form-label text-light"><strong>Condition</strong></label>
+            <div class="d-flex justify-content-center">
+                <input type="text" class="form-control text-center" id="bookCondition" name="Condition" style="max-width: 325px;" required>
+            </div>
+        </div>
+
+        <div class="d-flex justify-content-center">
+            <button type="submit" class="btn bg-light text-dark">Add Book</button>
+        </div>
+    </form>
+</div>

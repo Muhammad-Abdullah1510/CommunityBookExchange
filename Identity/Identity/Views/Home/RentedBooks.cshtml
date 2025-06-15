@@ -1,0 +1,54 @@
+﻿@model List<Identity.Models.Book>
+@{
+    ViewData["Title"] = "Rented Books";
+    var usernames = ViewBag.RentedFrom as List<string>;
+}
+
+<h1 class="text-light text-center">Rented Books</h1>
+<br />
+
+@if (Model == null || !Model.Any())
+{
+    <h3 class="text-center text-light">No Books Rented by You</h3>
+}
+else
+{
+    <div class="container">
+        @{
+            int count = 0;
+        }
+        @for (int i = 0; i < Model.Count; i += 2)
+        {
+            <div class="row d-flex justify-content-center mt-3">
+                @for (int j = 0; j < 2 && (i + j) < Model.Count; j++)
+                {
+                    var book = Model[i + j];
+                    var accId = $"accordionFlushExample{count}";
+                    var collapseId = $"flush-collapse-{count}";
+                    var rentedFrom = usernames[count];
+                    <div class="col-md-4">
+                        <div class="accordion accordion-flush" id="@accId">
+                            <div class="accordion-item bg-dark">
+                                <h2 class="accordion-header">
+                                    <button class="accordion-button collapsed bg-dark text-light text-center w-100" type="button"
+                                            data-bs-toggle="collapse" data-bs-target="#@collapseId"
+                                            aria-expanded="false" aria-controls="@collapseId">
+                                        @book.Title
+                                    </button>
+                                </h2>
+                                <div id="@collapseId" class="accordion-collapse collapse" data-bs-parent="#@accId">
+                                    <div class="accordion-body text-light">
+                                        Rented From: @rentedFrom
+                                        <br />
+                                        <a href="/Home/BookReturned?bookId=@book.Id" class="btn btn-sm bg-white text-dark mt-2">Return Book</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    count++;
+                }
+            </div>
+        }
+    </div>
+}

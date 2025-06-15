@@ -1,0 +1,51 @@
+﻿
+
+
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<div class="container d-flex align-items-center justify-content-center" style="height: calc(100vh - 80px);">
+    <div class="row w-100">
+
+        <div class="col-md-6 d-flex align-items-center justify-content-center">
+            <div class="card" style="width: 18rem;">
+                <img src="/images/@ViewBag.ProfileImage" class="card-img-top" alt="Profile Photo">
+                <a href="/Home/EditProfilePicture" class="btn btn-sm btn-outline-dark position-absolute top-0 end-0 m-2">
+                    <i class="bi bi-pencil"></i>
+                </a>
+                <div class="card-body text-center bg-dark">
+                    <h5 class="card-title text-light">
+                        @ViewBag.Uname
+                        <a href="/Home/EditUserName" class="btn btn-sm btn-outline-light ms-2">
+                            <i class="bi bi-pencil"></i>
+                        </a>
+                    </h5>
+                    
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6 d-flex align-items-center justify-content-center text-center">
+            <div class="p-4 text-white bg-dark bg-dark rounded shadow-lg">
+                @if (ViewBag.Urole == "Donor" || ViewBag.Urole == "Both")
+                {
+                    <h4 class="fw-bold text-uppercase">
+                        No of Books Donated:
+                        <span class="badge bg-secondary text-light">@ViewBag.NoDonated</span>
+                    </h4>
+                }
+                @if (ViewBag.Urole == "Renter" || ViewBag.Urole == "Both")
+                {
+                    <h4 class="fw-bold text-uppercase mt-3">
+                        No of Books Rented:
+                        <span class="badge bg-secondary text-light">@ViewBag.NoRented</span>
+                    </h4>
+                }
+            </div>
+        </div>
+
+    </div>
+</div>
+

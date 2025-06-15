@@ -1,0 +1,1049 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AGC\\Desktop\\Identity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\chat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\models\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\models\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\models\\irepositories\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\models\\irepositories\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\models\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\models\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\rentbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\rentbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\editprofilepicture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\editprofilepicture.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\models\\irepositories\\irequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\models\\irepositories\\irequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\models\\irepositories\\iprofilepicturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\models\\irepositories\\iprofilepicturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\models\\irepositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\models\\irepositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\models\\repositories\\profilepicturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\models\\repositories\\profilepicturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\profilepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\profilepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.ProfilePictures.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\bookreturned.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\bookreturned.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\updatecondition.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\updatecondition.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\editusername.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\editusername.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\listedbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\listedbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\rentedbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\rentedbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\donatedbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\donatedbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\notifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\requests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\requests.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.Requests.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\models\\repositories\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\models\\repositories\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.AspNetUserClaims.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\models\\repositories\\requestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\models\\repositories\\requestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\bookadded.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\bookadded.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.AspNetUserTokens.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\models\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\models\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AGC\\Desktop\\Project\\Identity\\Identity\\Models\\UserNameDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AGC\\Desktop\\Project\\Identity\\Identity\\Migrations\\UserNameDb\\20250511071245_UserNameTableFormation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AGC\\Desktop\\Project\\Identity\\Identity\\Models\\BookDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AGC\\Desktop\\Project\\Identity\\Identity\\ScaffoldingReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\data\\migrations\\20250518075051_addcitytoaspnetusers2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\data\\migrations\\20250518075051_addcitytoaspnetusers2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\data\\migrations\\20250518074723_addcitytoaspnetusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\data\\migrations\\20250518074723_addcitytoaspnetusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\data\\migrations\\20250518124351_addnotificationstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\data\\migrations\\20250518124351_addnotificationstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\data\\migrations\\20250524013543_profilepictablecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\data\\migrations\\20250524013543_profilepictablecreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|c:\\users\\agc\\desktop\\identity\\identity\\models\\profilepicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F999A3B7-2861-49F8-A019-3B224654BE36}|Identity\\Identity.csproj|solutionrelative:identity\\models\\profilepicture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Identity\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Identity\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAbAfm2uruvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T04:48:26.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chat.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\Chat.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\Chat.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\Chat.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\Chat.cshtml",
+              "ViewState": "AgIAABEAAAAA1bgEfskVwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T04:47:53.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Program.cs",
+              "RelativeDocumentMoniker": "Identity\\Program.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Program.cs",
+              "RelativeToolTip": "Identity\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwE4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:43:07.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "Identity\\wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "Identity\\wwwroot\\js\\chat.js",
+              "ViewState": "AgIAABUAAABgP6OEt6opwAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-11T11:24:00.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Identity\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Identity\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAF0BAAAANk7wdvodwMMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:15:22.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Identity\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Identity\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:35:00.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHgAAADAosSXux8rwIIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:16:31.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\appsettings.json",
+              "RelativeDocumentMoniker": "Identity\\appsettings.json",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\appsettings.json",
+              "RelativeToolTip": "Identity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-30T04:22:55.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Identity\\Models\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Identity\\Models\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAIcAAAAAPDCLYvUewEkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:02:04.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "INotificationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\IRepositories\\INotificationRepository.cs",
+              "RelativeDocumentMoniker": "Identity\\Models\\IRepositories\\INotificationRepository.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\IRepositories\\INotificationRepository.cs",
+              "RelativeToolTip": "Identity\\Models\\IRepositories\\INotificationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:39:56.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\ProjectDbContext.cs",
+              "RelativeDocumentMoniker": "Identity\\Models\\ProjectDbContext.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\ProjectDbContext.cs",
+              "RelativeToolTip": "Identity\\Models\\ProjectDbContext.cs",
+              "ViewState": "AgIAAAAAAADAHZj7HdoiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:53:20.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "Identity\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\Request.cs",
+              "RelativeToolTip": "Identity\\Models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:37:39.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAkwLEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T07:57:20.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Identity\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Identity\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:33:10.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RentBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\RentBook.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\RentBook.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\RentBook.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\RentBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T15:58:53.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\Search.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\Search.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\Search.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\Search.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T16:11:05.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditProfilePicture.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\EditProfilePicture.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\EditProfilePicture.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\EditProfilePicture.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\EditProfilePicture.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T01:56:42.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\IRepositories\\IRequestRepository.cs",
+              "RelativeDocumentMoniker": "Identity\\Models\\IRepositories\\IRequestRepository.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\IRepositories\\IRequestRepository.cs",
+              "RelativeToolTip": "Identity\\Models\\IRepositories\\IRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:52:53.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProfilePictureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\IRepositories\\IProfilePictureRepository.cs",
+              "RelativeDocumentMoniker": "Identity\\Models\\IRepositories\\IProfilePictureRepository.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\IRepositories\\IProfilePictureRepository.cs",
+              "RelativeToolTip": "Identity\\Models\\IRepositories\\IProfilePictureRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:56:07.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\IRepositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Identity\\Models\\IRepositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\IRepositories\\IBookRepository.cs",
+              "RelativeToolTip": "Identity\\Models\\IRepositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:01:21.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProfilePictureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\Repositories\\ProfilePictureRepository.cs",
+              "RelativeDocumentMoniker": "Identity\\Models\\Repositories\\ProfilePictureRepository.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\Repositories\\ProfilePictureRepository.cs",
+              "RelativeToolTip": "Identity\\Models\\Repositories\\ProfilePictureRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:57:05.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProfilePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\ProfilePage.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\ProfilePage.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\ProfilePage.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\ProfilePage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T03:35:25.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.ProfilePictures.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.ProfilePictures.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.ProfilePictures.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-25T13:48:39.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Identity\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Identity\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-25T10:22:08.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\SignIn.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\SignIn.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwFIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T10:20:20.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T10:19:47.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BookReturned.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\BookReturned.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\BookReturned.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\BookReturned.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\BookReturned.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T08:37:06.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateCondition.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\UpdateCondition.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\UpdateCondition.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\UpdateCondition.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\UpdateCondition.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-25T08:16:51.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ListedBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\ListedBooks.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\ListedBooks.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\ListedBooks.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\ListedBooks.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T16:09:59.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RentedBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\RentedBooks.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\RentedBooks.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\RentedBooks.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\RentedBooks.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T16:00:01.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EditUserName.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\EditUserName.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\EditUserName.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\EditUserName.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\EditUserName.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T07:01:40.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DonatedBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\DonatedBooks.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\DonatedBooks.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\DonatedBooks.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\DonatedBooks.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T15:31:56.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Notifications.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\Notifications.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\Notifications.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\Notifications.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\Notifications.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T12:36:58.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Requests.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\Requests.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\Requests.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\Requests.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\Requests.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T13:16:53.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "dbo.Requests.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.Requests.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.Requests.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-25T07:42:20.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dbo.Books.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.Books.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-25T07:13:46.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-25T07:37:28.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NotificationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\Repositories\\NotificationRepository.cs",
+              "RelativeDocumentMoniker": "Identity\\Models\\Repositories\\NotificationRepository.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\Repositories\\NotificationRepository.cs",
+              "RelativeToolTip": "Identity\\Models\\Repositories\\NotificationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:41:05.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250524013543_ProfilePicTableCreation.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Data\\Migrations\\20250524013543_ProfilePicTableCreation.cs",
+              "RelativeDocumentMoniker": "Identity\\Data\\Migrations\\20250524013543_ProfilePicTableCreation.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Data\\Migrations\\20250524013543_ProfilePicTableCreation.cs",
+              "RelativeToolTip": "Identity\\Data\\Migrations\\20250524013543_ProfilePicTableCreation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T01:35:43.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ProfilePicture.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\ProfilePicture.cs",
+              "RelativeDocumentMoniker": "Identity\\Models\\ProfilePicture.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\ProfilePicture.cs",
+              "RelativeToolTip": "Identity\\Models\\ProfilePicture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T01:33:58.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "dbo.AspNetUserClaims.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.AspNetUserClaims.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.AspNetUserClaims.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-24T01:23:12.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\Repositories\\RequestRepository.cs",
+              "RelativeDocumentMoniker": "Identity\\Models\\Repositories\\RequestRepository.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\Repositories\\RequestRepository.cs",
+              "RelativeToolTip": "Identity\\Models\\Repositories\\RequestRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:25:33.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LogOut.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\LogOut.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\LogOut.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\LogOut.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\LogOut.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T03:10:46.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BookAdded.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\BookAdded.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\BookAdded.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\BookAdded.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\BookAdded.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T03:12:15.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Views\\Home\\LogIn.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Views\\Home\\LogIn.cshtml",
+              "RelativeToolTip": "Identity\\Views\\Home\\LogIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T03:12:11.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Identity\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Identity\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:34:19.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dbo.AspNetUserTokens.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.AspNetUserTokens.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Project/True/SqlTable/dbo.AspNetUserTokens.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-19T13:40:41.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Identity\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\Book.cs",
+              "RelativeToolTip": "Identity\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:13:03.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20250518124351_AddNotificationsTable.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Data\\Migrations\\20250518124351_AddNotificationsTable.cs",
+              "RelativeDocumentMoniker": "Identity\\Data\\Migrations\\20250518124351_AddNotificationsTable.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Data\\Migrations\\20250518124351_AddNotificationsTable.cs",
+              "RelativeToolTip": "Identity\\Data\\Migrations\\20250518124351_AddNotificationsTable.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:43:51.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Identity\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\Notification.cs",
+              "RelativeToolTip": "Identity\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:39:00.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T07:57:14.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20250518075051_AddCityToAspNetUSers2.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Data\\Migrations\\20250518075051_AddCityToAspNetUSers2.cs",
+              "RelativeDocumentMoniker": "Identity\\Data\\Migrations\\20250518075051_AddCityToAspNetUSers2.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Data\\Migrations\\20250518075051_AddCityToAspNetUSers2.cs",
+              "RelativeToolTip": "Identity\\Data\\Migrations\\20250518075051_AddCityToAspNetUSers2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:50:52.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20250518074723_AddCityToAspNetUSers.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Data\\Migrations\\20250518074723_AddCityToAspNetUSers.cs",
+              "RelativeDocumentMoniker": "Identity\\Data\\Migrations\\20250518074723_AddCityToAspNetUSers.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Data\\Migrations\\20250518074723_AddCityToAspNetUSers.cs",
+              "RelativeToolTip": "Identity\\Data\\Migrations\\20250518074723_AddCityToAspNetUSers.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBoAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:47:24.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserName.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\UserName.cs",
+              "RelativeDocumentMoniker": "Identity\\Models\\UserName.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Models\\UserName.cs",
+              "RelativeToolTip": "Identity\\Models\\UserName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:07:45.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Identity\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "Identity\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:25:35.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ResendEmailConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Identity\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeToolTip": "Identity\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAnwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:25:31.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "Identity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAnwA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:25:26.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Identity\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Identity\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:25:21.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Identity\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAnwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:25:15.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Identity\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "Identity\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:24:57.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:15:09.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Identity\\Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "Identity\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-18T06:15:00.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UserNameDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Project\\Identity\\Identity\\Models\\UserNameDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Project\\Identity\\Identity\\Models\\UserNameDbContext.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Project\\Identity\\Identity\\Models\\UserNameDbContext.cs",
+              "RelativeToolTip": "..\\Project\\Identity\\Identity\\Models\\UserNameDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:10:37.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250511071245_UserNameTableFormation.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Project\\Identity\\Identity\\Migrations\\UserNameDb\\20250511071245_UserNameTableFormation.cs",
+              "RelativeDocumentMoniker": "..\\Project\\Identity\\Identity\\Migrations\\UserNameDb\\20250511071245_UserNameTableFormation.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Project\\Identity\\Identity\\Migrations\\UserNameDb\\20250511071245_UserNameTableFormation.cs",
+              "RelativeToolTip": "..\\Project\\Identity\\Identity\\Migrations\\UserNameDb\\20250511071245_UserNameTableFormation.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:12:45.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Project\\Identity\\Identity\\Models\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Project\\Identity\\Identity\\Models\\BookDbContext.cs",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Project\\Identity\\Identity\\Models\\BookDbContext.cs",
+              "RelativeToolTip": "..\\Project\\Identity\\Identity\\Models\\BookDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:43:05.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\AGC\\Desktop\\Project\\Identity\\Identity\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "..\\Project\\Identity\\Identity\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\AGC\\Desktop\\Project\\Identity\\Identity\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "..\\Project\\Identity\\Identity\\ScaffoldingReadMe.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-02T13:47:32.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Notifications";
+}
+@model List<Identity.Models.Notification>
+
+<h1 class="text-white text-center ">Notifications</h1>
+<br />
+@if (Model != null && Model.Any()){
+    <div class="container d-flex justify-content-center">
+        <div class="col-md-7">
+        
+            @foreach (var notification in Model)
+            {
+                <div class="alert alert-dismissible fade show text-light bg-dark" role="alert">
+                    @notification.Message
+                    <form asp-action="DeleteNotification" method="post" class="d-inline">
+                        <input type="hidden" name="id" value="@notification.Id" />
+                        <button type="submit" class="btn-close" aria-label="Close"></button>
+                    </form>
+                </div>
+            }
+        </div>
+    </div>
+}
+else{
+    <h3 class="text-center text-light">No new Notifications.</h3>
+}
